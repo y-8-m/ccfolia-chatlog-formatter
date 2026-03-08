@@ -13,7 +13,7 @@ TRPGセッションログ（主にココフォリア）を
 ## Demo
 
 GitHub Pages  
-（ここにURL）
+https://y-8-m.github.io/ccfolia-chatlog-formatter/
 
 ---
 
