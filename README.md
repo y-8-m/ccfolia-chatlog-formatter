@@ -1,0 +1,65 @@
+# Chatlog Formatter
+
+TRPGセッションログ（主にココフォリア）を  
+**読みやすいHTMLログに整形するツール**です。
+
+元々使用していたログ整形ツールが消失したため、  
+見た目互換を保ちながら **コードとしての可読性と構造整理を改善する**目的で作成しました。
+
+ブラウザのみで動作するシンプルなツールです。
+
+---
+
+## Demo
+
+GitHub Pages  
+（ここにURL）
+
+---
+
+## Download
+
+`index.html` をダウンロードしてブラウザで開くだけで使用できます。
+
+インストールは不要です。
+
+---
+
+## Features
+
+- チャットログの整形
+- セマンティックHTMLでのログ出力
+- 発言色の調整
+- タブ整理
+- モーダルウィンドウによるサンプル表示
+- ローカル環境での実行（ブラウザのみ）
+
+---
+
+## Usage
+
+1. `index.html` をブラウザで開く  
+2. ログファイルを読み込む  
+3. 必要に応じて表示や色を調整  
+4. 整形されたHTMLログを出力
+
+---
+
+## Notes
+
+- 現在は特定のログ形式を前提としています  
+- 複数ログの一括処理は未対応  
+- 調整機能は単体ログでの使用を想定しています
+
+---
+
+## License
+
+MIT License# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
+# ccfolia-chatlog-formatter
