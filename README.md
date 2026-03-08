@@ -55,11 +55,4 @@ GitHub Pages
 
 ## License
 
-MIT License# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
-# ccfolia-chatlog-formatter
+MIT License
